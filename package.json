@@ -1,0 +1,23 @@
+{
+  "name": "begin-deletion",
+  "version": "1.0.0",
+  "description": "refactor of deletion with Begin",
+  "main": "index.js",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchinjr/begin-deletion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchinjr/begin-deletion/issues"
+  },
+  "homepage": "https://github.com/pchinjr/begin-deletion#readme",
+  "dependencies": {
+    "@architect/sandbox": "^1.13.1"
+  }
+}

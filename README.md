@@ -1,2 +1,2 @@
-# begin-deletion-003
-Begin app
+# begin-deletion
+ refactor of deletion with Begin
